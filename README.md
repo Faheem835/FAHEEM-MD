@@ -6,10 +6,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-«𝙁𝘼𝙄𝙕𝘼𝙉 𝙅𝙐𝙏𝙏»
+«𝗙𝗔𝗛𝗘𝗘𝗠-𝗔𝗜»
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-  <img src="https://files.catbox.moe/3ddbjq.jpg" alt="FAIZAN-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/3ddbjq.jpg" alt="FAHEEM-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
@@ -25,17 +25,17 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">FAIZAN</span> 🚀</b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">FAHEEM</span> 🚀</b>
 </p>
 
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍
 <p align="center">
-  <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
+  <a href="https://github.com/Faheem835/FAHEEM-MD">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
+  <a href="https://github.com/Faheem835/FAHEEM-MD">
     <img src="https://img.shields.io/github/stars/FAIZAN-AI/FAIZAN-AI?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
@@ -45,7 +45,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
-  <a href="https://faizan-md-session-generator.onrender.com/">
+  <a href="https://Faheem-md-session-generator.onrender.com/">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -55,7 +55,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙉𝙊𝙒
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Faizan-MD-BOTZ/Faizan-Ai">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Faheem-MD-BOTZ/Faheem-Ai">
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
@@ -68,10 +68,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g">
+  <a href="https://whatsapp.com/channel/0029Vaz3XnP0QeatS6QzvG20">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+923408576674&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
+  <a href="https://api.whatsapp.com/send?phone=+61480853796&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -104,6 +104,6 @@ Do not sell, misuse, or use without giving credits.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
-  🌈✨ Thanks for using <span style="color:#00FFFF">FAIZAN-AI</span> ✨🌈
+  🌈✨ Thanks for using <span style="color:#00FFFF">FAHEEM-AI</span> ✨🌈
 </h2>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
