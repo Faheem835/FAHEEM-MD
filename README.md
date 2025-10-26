@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-«: 𒁍⃝ꄘɑ᪳͢卄ɛ̽͜ɛ̽͜爪↰᚛:⃕‹✯›»
+« : ᖇᗩᕼᗴᗴᗰ - ᗩI »
 </h1>
 <h1 align="center">
   <img src="https://files.catbox.moe/snae53.jpg" alt="FAHEEM-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
