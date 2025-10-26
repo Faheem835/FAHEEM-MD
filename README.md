@@ -46,8 +46,8 @@
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
-<p align="center">
-  <a href="https://Faheem-md-session-generator.onrender.com/">
+<p align="center">[https://Faheem-md-session-generator.onrender.com/](https://faheem-ai-pair.onrender.com)
+  <a href="">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
