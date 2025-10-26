@@ -21,7 +21,7 @@
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <div>
     <h1 text="center">
-    ✨ FAHEEM-AI ✨
+    ✨ 𝔽𝔸ℍ𝔼𝔼𝕄 - 𝔸𝕀 ✨
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </span>
 </h1>
